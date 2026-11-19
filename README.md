@@ -92,4 +92,4 @@ agenda-contactos/
 
 ## Autor
 
-Nombre del estudiante — Curso / Asignatura — 2026
+Josue Chisaguano — 5 Semestre / Desarrollo Web — 2026
