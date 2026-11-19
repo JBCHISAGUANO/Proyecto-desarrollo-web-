@@ -92,4 +92,4 @@ agenda-contactos/
 
 ## Autor
 
-Josue Chisaguano — 5 Semestre / Desarrollo Web — 2026
+Josue Chisaguano — Semestre 5 / Desarrollo Web — 2026
